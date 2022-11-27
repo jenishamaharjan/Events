@@ -1,0 +1,21 @@
+﻿
+a {
+
+    text-decoration:none !important;
+}
+.what {
+    font-family: 'Times New Roman', Times, serif 
+    }
+.card1{
+    float:left
+
+}
+.button{
+    color:red;
+}
+
+img:hover{
+    opacity:1;
+}
+
+
